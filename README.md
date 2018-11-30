@@ -1,4 +1,6 @@
-# DevOps Loft
+# DevOps Loft 
+
+[![TravisCI Build Status](https://travis-ci.com/ekirmayer/devopsloft.svg?branch=master)](https://travis-ci.com/ekirmayer/devopsloft)
 
 ## Drive our Career Path into DevOps
 
