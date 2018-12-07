@@ -1,6 +1,7 @@
 # DevOps Loft 
 
 [![TravisCI Build Status](https://travis-ci.com/ekirmayer/devopsloft.svg?branch=master)](https://travis-ci.com/ekirmayer/devopsloft)
+[ ![Codeship Status for ekirmayer/devopsloft](https://app.codeship.com/projects/ac79cfb0-dc21-0136-626d-02f21580d1d7/status?branch=master)](https://app.codeship.com/projects/317865)
 
 ## Drive our Career Path into DevOps
 
