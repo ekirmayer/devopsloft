@@ -1,6 +1,10 @@
+![DevOpsLoft](static/logo-small.png)
+
 # DevOps Loft 
 
-[![TravisCI Build Status](https://travis-ci.com/ekirmayer/devopsloft.svg?branch=master)](https://travis-ci.com/ekirmayer/devopsloft)
+
+[![Build Status](https://travis-ci.org/devopsloft/devopsloft.svg?branch=master)](https://travis-ci.org/devopsloft/devopsloft)
+[![Slack Community](static/svg/slck.svg)](https://devopsloft.slack.com)
 
 ## Drive our Career Path into DevOps
 
